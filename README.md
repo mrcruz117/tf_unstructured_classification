@@ -21,4 +21,4 @@ The data is from Kaggle's dog breed identification [competition](https://www.kag
 * 10,000+ images in training set
   - labels
 * 10,000+ images in test set
-  - no labels
+  - no labels# {project_name}
